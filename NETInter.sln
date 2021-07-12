@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{E5C69504-73E1-43A4-B015-DC3F27D2BB5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expressions.Task3.E3SQueryProvider", "IQueryable Task\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\Expressions.Task3.E3SQueryProvider.csproj", "{D71C7822-B97D-40F1-8DBF-30B40E9DA348}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expressions.Task3.E3SQueryProvider.Test", "IQueryable Task\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider.Test\Expressions.Task3.E3SQueryProvider.Test.csproj", "{943A2E26-6E57-4DA4-88B1-892300AC155A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71C7822-B97D-40F1-8DBF-30B40E9DA348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71C7822-B97D-40F1-8DBF-30B40E9DA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71C7822-B97D-40F1-8DBF-30B40E9DA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71C7822-B97D-40F1-8DBF-30B40E9DA348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943A2E26-6E57-4DA4-88B1-892300AC155A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943A2E26-6E57-4DA4-88B1-892300AC155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943A2E26-6E57-4DA4-88B1-892300AC155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943A2E26-6E57-4DA4-88B1-892300AC155A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D71C7822-B97D-40F1-8DBF-30B40E9DA348} = {E5C69504-73E1-43A4-B015-DC3F27D2BB5A}
+		{943A2E26-6E57-4DA4-88B1-892300AC155A} = {E5C69504-73E1-43A4-B015-DC3F27D2BB5A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306D7841-44A9-440B-A74C-3B88997A870C}
+	EndGlobalSection
+EndGlobal
